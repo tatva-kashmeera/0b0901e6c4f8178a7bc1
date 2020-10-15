@@ -1,5 +1,4 @@
-# 0b0901e6c4f8178a7bc1# Engineer AI Practical Test
-Engineer AI Practical Test
+#  Engineer AI Practical Test
 
 
 ### Usage
@@ -7,7 +6,7 @@ Engineer AI Practical Test
 ```
 git clone https://github.com/tatva-kashmeera/0b0901e6c4f8178a7bc1.git
 cd a7b1f4ae26d5ff653e0d
-yarn
+npm
 ```
 
 ### Available Commands
@@ -19,7 +18,7 @@ react-native run-ios - start app on ios simulator
 
 Definition:
 
-Data fetched from api with interval of 10s. feched data displayed in list with scroll. Clicking on row will show Detail screen which shows raw json.   
+Fetch post list from API at the interval of 10s, display list with pagination. Open post detail screen on click on post and that will display data in row json.
 
 Currently includes:
 - React Native
